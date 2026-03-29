@@ -1,0 +1,4 @@
+Data: 03/01/2026
+Prodotto: Uova 12pz
+Prezzo: €3.20
+Totale: €3.20

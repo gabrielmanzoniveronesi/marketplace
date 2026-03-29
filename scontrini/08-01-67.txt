@@ -1,0 +1,112 @@
+data: 08/01/2026
+prodotto: bisCotti 250g
+prezzo: €2.30
+
+data: 09/01/2026
+prodotto: pasta 500g
+totale: €1.10
+prezzo: €1.10
+
+data: 10/01/2026
+prodotto: banna 1pz
+prezzo: €1.50
+totale: €1.50
+
+data: 11/01/2026
+prodotto: yogurt 150g
+totale: €0.80
+prezzo: €0.80
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/vdata/cache_layer.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+..
+

@@ -1,0 +1,4 @@
+Data: 05/01/2026
+Prodotto: Pasta 500g
+Prezzo: €1.10
+Totale: €1.10

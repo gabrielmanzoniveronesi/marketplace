@@ -1,0 +1,4 @@
+Data: 08/01/2026
+Prodotto: Biscotti 250g
+Prezzo: €2.30
+Totale: €2.30

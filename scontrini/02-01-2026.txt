@@ -1,0 +1,4 @@
+Data: 02/01/2026
+Prodotto: Pane Integrale
+Prezzo: €2.00
+Totale: €2.00

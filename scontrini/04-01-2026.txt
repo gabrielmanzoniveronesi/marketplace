@@ -1,0 +1,4 @@
+Data: 04/01/2026
+Prodotto: Yogurt
+Prezzo: €0.90
+Totale: €0.90

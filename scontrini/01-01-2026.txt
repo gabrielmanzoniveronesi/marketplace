@@ -1,0 +1,4 @@
+Data: 01/01/2026
+Prodotto: Latte 1L
+Prezzo: €1.50
+Totale: €1.50

@@ -103,7 +103,7 @@ button {
 }
 
 .background {
-    /view_cache.html
+    ../view_cache.html
 }
 
 button:hover {
